@@ -1,0 +1,107 @@
+.heading{
+    color:cyan;
+    font-family: 'Dancing Script';
+    text-align:center;
+    margin-top:20px;
+    font-size:53px;
+}
+.outer{
+    background:linear-gradient(black,#36454F);
+    height:100%;
+    width:100%;
+    padding-top:30px;
+    padding-bottom:800px;
+}
+
+.buttonImg{
+    width:410px;
+    position:relative;
+    left:424px;
+    top:40px;
+    border: 10px solid transparent;
+}
+
+.price{
+    color:white;
+}
+
+.itrContainer{
+    position:absolute;
+    top:300px;
+    left:80px;
+}
+
+.logo{
+ width:60%;
+ position:absolute;
+ left:1px;
+ top:137px;
+}
+
+.entryDiv{
+    background:linear-gradient(rgb(164, 145, 145),#36454F);
+    padding-bottom:800px;
+}
+
+.details{
+    position:absolute;
+    left:800px;
+    top:320px;
+    transform:rotate(-30deg);
+    color:rgb(5, 4, 4);
+   
+}
+
+.avs{
+    font-family: 'Dancing Script';
+    font-size:150px;
+    
+}
+
+
+.fsd{
+    margin-bottom:30px;
+}
+
+.skew{
+    position:absolute;
+    left:170px;
+    top:310px;
+    
+}
+.skew2{
+    position:absolute;
+    left:960px;
+    top:60px;
+    
+}
+
+.array-display{
+    color:white;
+    margin-top:20px;
+}
+
+.fprint{
+    color:white;
+    font-size:140px;
+    position:absolute;
+    left:720px;
+    bottom:50px;
+}
+
+.knowledge-block{
+    position:absolute;
+    top:540px;
+    left:130px;
+    padding:50px;
+    color:white;
+}
+
+.al{
+    text-align:center;
+ 
+}
+
+.al2{
+    color:#ffffcc;
+}
